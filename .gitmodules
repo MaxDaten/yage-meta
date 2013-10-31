@@ -1,0 +1,15 @@
+[submodule "yage"]
+	path = yage
+	url = git@maxdaten.com:yage/yage.git
+[submodule "yage-rendering"]
+	path = yage-rendering
+	url = git@maxdaten.com:yage/yage-rendering.git
+[submodule "yage-core"]
+	path = yage-core
+	url = git@maxdaten.com:yage/yage-core.git
+[submodule "yage-contrib"]
+	path = yage-contrib
+	url = git@maxdaten.com:yage/yage-contrib.git
+[submodule "yage-research"]
+	path = yage-research
+	url = git@maxdaten.com:yage/yage-research.git
