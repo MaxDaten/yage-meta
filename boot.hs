@@ -58,6 +58,7 @@ removeGlobalSandbox sdir = do
         removeSandbox = rawSystem cabal ["sandbox", "delete", "--sandbox", "."]
         unlinkSandbox = rawSystem cabal ["sandbox", "delete"]
 
+
 inDirectory :: FilePath -> IO a -> IO a
 inDirectory dir action = do
     old <- getCurrentDirectory
@@ -65,6 +66,7 @@ inDirectory dir action = do
     r   <- action
     setCurrentDirectory old
     return r
+
 
 main :: IO ExitCode
 main = do
