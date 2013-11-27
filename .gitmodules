@@ -10,6 +10,9 @@
 [submodule "yage-contrib"]
 	path = yage-contrib
 	url = git@maxdaten.com:yage/yage-contrib.git
+[submodule "yage-examples"]
+	path = yage-examples
+	url = git@maxdaten.com:yage/yage-examples.git
 [submodule "yage-research"]
 	path = yage-research
 	url = git@maxdaten.com:yage/yage-research.git
