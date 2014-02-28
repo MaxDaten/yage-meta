@@ -1,5 +1,6 @@
 yage
-yage-contrib
-yage-core
 yage-rendering
 yage-examples
+yage-geometry
+yage-contrib
+yage-core
