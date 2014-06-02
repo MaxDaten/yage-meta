@@ -16,3 +16,6 @@
 [submodule "yage-research"]
 	path = yage-research
 	url = git@maxdaten.com:yage/yage-research.git
+[submodule "yage-geometry"]
+	path = yage-geometry
+	url = ./yage-geometry
