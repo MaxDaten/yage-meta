@@ -1,21 +1,21 @@
 [submodule "yage"]
 	path = yage
-	url = git@maxdaten.com:yage/yage.git
+	url = git@github.com:MaxDaten/yage.git
 [submodule "yage-rendering"]
 	path = yage-rendering
-	url = git@maxdaten.com:yage/yage-rendering.git
+	url = git@github.com:MaxDaten/yage-rendering.git
 [submodule "yage-core"]
 	path = yage-core
-	url = git@maxdaten.com:yage/yage-core.git
+	url = git@github.com:MaxDaten/yage-core.git
 [submodule "yage-contrib"]
 	path = yage-contrib
-	url = git@maxdaten.com:yage/yage-contrib.git
+	url = git@github.com:MaxDaten/yage-contrib.git
 [submodule "yage-examples"]
 	path = yage-examples
-	url = git@maxdaten.com:yage/yage-examples.git
+	url = git@github.com:MaxDaten/yage-examples.git
 [submodule "yage-research"]
 	path = yage-research
-	url = git@maxdaten.com:yage/yage-research.git
+	url = git@github.com:MaxDaten/yage-research.git
 [submodule "yage-geometry"]
 	path = yage-geometry
-	url = ./yage-geometry
+	url = git@github.com:MaxDaten/yage-geometry.git/
