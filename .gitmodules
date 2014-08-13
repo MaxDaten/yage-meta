@@ -18,4 +18,4 @@
 	url = git@github.com:MaxDaten/yage-research.git
 [submodule "yage-geometry"]
 	path = yage-geometry
-	url = git@github.com:MaxDaten/yage-geometry.git/
+	url = git@github.com:MaxDaten/yage-geometry.git
