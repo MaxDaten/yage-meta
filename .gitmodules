@@ -1,9 +1,6 @@
 [submodule "yage"]
 	path = yage
 	url = git@github.com:MaxDaten/yage.git
-[submodule "yage-rendering"]
-	path = yage-rendering
-	url = git@github.com:MaxDaten/yage-rendering.git
 [submodule "yage-core"]
 	path = yage-core
 	url = git@github.com:MaxDaten/yage-core.git
