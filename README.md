@@ -24,7 +24,7 @@ The engine modules are prefixed with `yage` and are:
 </dl>
 
 
-### Getting Started (~1')
+### Getting Started (~5')
 
 * `git clone --recursive git@github.com:MaxDaten/yage-meta`
 * `cd yage-meta`
