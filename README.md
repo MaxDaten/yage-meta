@@ -1,22 +1,19 @@
 yage-meta
 =========
 
-collection of all yage modules and some utility scripts
+collection of all yage modules, utility scripts and custom dependencies
 
-:exclamation::exclamation::exclamation:**CAUTION: code is extremly experimental, not stable, incorrect and changes very often**:exclamation::exclamation::exclamation:
+:exclamation:CAUTION: code is extremly experimental, not stable, incorrect and changes very often:exclamation:
 
-Windows
-=======
 
-- install custom `ekg-core` version with compile flag added for win32 - network - socket issues
-- install `quine`
+# Getting Started
 
-'quine' depends currently on sdl2 so install with e.g. 
-	- cabal install sdl2 --extra-lib-dirs=C:\SDL2-2.0.3\include --extra-include-dirs=C:\SDL2-2.0.3\lib\x64
+`git clone --recursive git@github.com:MaxDaten/yage-meta`
+`cd yage-meta`
+`./boot.hs sandbox init`
 
-`or`
+# Run Examples
 
-use custom quine with sdl stripped out (see MaxDaten/quine/stripped-sdl)
-
-- install `typography-ft2`
-- 
+`cd yage-examples`
+`cabal install --dependencies-only`
+`cabal run yage-pbr`
