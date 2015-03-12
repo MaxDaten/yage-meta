@@ -10,9 +10,12 @@
 [submodule "yage-examples"]
 	path = yage-examples
 	url = git@github.com:MaxDaten/yage-examples.git
-[submodule "yage-research"]
-	path = yage-research
-	url = git@github.com:MaxDaten/yage-research.git
 [submodule "yage-geometry"]
 	path = yage-geometry
 	url = git@github.com:MaxDaten/yage-geometry.git
+[submodule "typography-ft2"]
+	path = typography-ft2
+	url = git@github.com:MaxDaten/typography-ft2.git
+[submodule "quine"]
+	path = quine
+	url = git@github.com:MaxDaten/quine.git
