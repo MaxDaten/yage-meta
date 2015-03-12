@@ -30,13 +30,15 @@ The engine modules are prefixed with `yage` and are:
 * `cd yage-meta`
 * `./boot.hs sandbox init`
 
-### Build Engine (~ 30')
+### Build Engine (~30')
 
 * `cd yage`
 * `cabal install --dependencies-only`
 * `cabal install`
 
-### Run Examples (~ 1')
+### Run Examples (~1')
+
+_Most of the examples require at least OpenGL 4.4_
 
 * `cd yage-examples`
 * `cabal run yage-pbr`
