@@ -5,6 +5,11 @@ collection of all yage modules, utility scripts and custom dependencies
 
 :exclamation:CAUTION: code is extremly experimental, not stable, incorrect and changes very often:exclamation:
 
+![Ambient Occlusion with Sparse Voxel Textures](https://cloud.githubusercontent.com/assets/1087418/6622803/3cdc12be-c8df-11e4-8b41-88eeb2b353a4.png)
+
+![Image Based Lighting](https://cloud.githubusercontent.com/assets/1087418/6622841/7f6660bc-c8df-11e4-83b5-817719e11ed4.png)
+
+
 ### Project Overview
 
 This meta project collects all modules of the engine plus some additional customized dependencies.
